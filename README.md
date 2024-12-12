@@ -40,8 +40,8 @@ Welcome to my GitHub profile! I'm thrilled to have you here. This space is a ref
   ![Figma](https://img.shields.io/badge/-Figma-F24E1E?logo=figma&logoColor=white) 
   ![Adobe XD](https://img.shields.io/badge/-Adobe%20XD-FF61F6?logo=adobe-xd&logoColor=white)
 
-- **And many packages like:** 
-  - React Hook Form, Styled Components, Recharts, Leaflet, Axios, Lodash, Redux, Socket.io, Mongoose, Sequelize, TanStack Query, Framer Motion, Chart.js, Formik, Cypress, Tailwind CSS
+- **And many others:** 
+  - React Hook Form, Styled Components, Recharts, Leaflet, Axios, Lodash, Redux, Socket.io, Mongoose, Sequelize, TanStack Query, Framer Motion, Chart.js, and more.
 
 ## 🌐 Connect with Me
 
