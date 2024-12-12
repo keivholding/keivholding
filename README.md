@@ -1,6 +1,6 @@
 # 👋 Hello, World! I'm @keivholding
 
-Welcome to my GitHub profile! I'm thrilled to have you here. This space is a reflection of my journey in the world of technology and innovation. Let's dive into what makes this repository ✨ special ✨.
+Welcome to my GitHub profile! I'm thrilled to have you here. This space is a reflection of my journey in the world of technology and innovation. I would love to connect to hear about what you're building. 😊
 
 ## 🚀 About Me
 
