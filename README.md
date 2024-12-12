@@ -13,7 +13,8 @@ Welcome to my GitHub profile! I'm thrilled to have you here. This space is a ref
 ## 🛠️ My Tech Stack
 
 - **Languages:** 
-  ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black) 
+  ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black)
+  ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)
   ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white) 
   ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white)
 
