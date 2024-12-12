@@ -40,6 +40,12 @@ Welcome to my GitHub profile! I'm thrilled to have you here. This space is a ref
   ![Figma](https://img.shields.io/badge/-Figma-F24E1E?logo=figma&logoColor=white) 
   ![Adobe XD](https://img.shields.io/badge/-Adobe%20XD-FF61F6?logo=adobe-xd&logoColor=white)
 
+- **And many packages like:** 
+  ![React Hook Form](https://img.shields.io/badge/-React%20Hook%20Form-EC5990?logo=react&logoColor=white)
+  ![Styled Components](https://img.shields.io/badge/-Styled%20Components-DB7093?logo=styled-components&logoColor=white)
+  ![Recharts](https://img.shields.io/badge/-Recharts-FF4500?logo=recharts&logoColor=white)
+  ![Leaflet](https://img.shields.io/badge/-Leaflet-199900?logo=leaflet&logoColor=white)
+
 ## 🌐 Connect with Me
 
 - [LinkedIn](https://www.linkedin.com/in/keiv-holding-1995b51b4/)
