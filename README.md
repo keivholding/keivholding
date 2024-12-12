@@ -41,10 +41,19 @@ Welcome to my GitHub profile! I'm thrilled to have you here. This space is a ref
   ![Adobe XD](https://img.shields.io/badge/-Adobe%20XD-FF61F6?logo=adobe-xd&logoColor=white)
 
 - **And many packages like:** 
-  ![React Hook Form](https://img.shields.io/badge/-React%20Hook%20Form-EC5990?logo=react&logoColor=white)
-  ![Styled Components](https://img.shields.io/badge/-Styled%20Components-DB7093?logo=styled-components&logoColor=white)
-  ![Recharts](https://img.shields.io/badge/-Recharts-FF4500?logo=recharts&logoColor=white)
-  ![Leaflet](https://img.shields.io/badge/-Leaflet-199900?logo=leaflet&logoColor=white)
+  - **React Hook Form**: Simplifying forms in React.
+  - **Styled Components**: Bringing CSS-in-JS to life.
+  - **Recharts**: Crafting beautiful charts with ease.
+  - **Leaflet**: Mapping the world, one tile at a time.
+  - **Axios**: Making HTTP requests a breeze.
+  - **Lodash**: Supercharging JavaScript utilities.
+  - **Redux**: Managing state like a pro.
+  - **Socket.io**: Real-time communication made simple.
+  - **Mongoose**: Elegant MongoDB object modeling.
+  - **Sequelize**: SQL made easy with ORM.
+  - **TanStack Query**: Powerful data-fetching for React.
+  - **Framer Motion**: Stunning animations for your UI.
+  - **Chakra UI**: Accessible and modular component library.
 
 ## 🌐 Connect with Me
 
