@@ -46,7 +46,3 @@ Welcome to my GitHub profile! I'm thrilled to have you here. This space is a ref
 ## 🌐 Connect with Me
 
 - [LinkedIn](https://www.linkedin.com/in/keiv-holding-1995b51b4/)
-
----
-
-Feel free to explore my repositories and reach out if you have any questions or just want to connect!
